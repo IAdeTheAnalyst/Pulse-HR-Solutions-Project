@@ -19,7 +19,7 @@ This project delivers a comprehensive HR analytics dashboard using Microsoft Exc
 
 ## 📊 Dashboard Preview
 
-![PulseHR Excel Dashboard](PulseHR%20Dashboard.png)
+![PulseHR Excel Dashboard](Pulse%20Dashboard.png)
 
 ---
 
